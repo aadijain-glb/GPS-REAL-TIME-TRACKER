@@ -2,6 +2,7 @@
 // npm install -g nodemon
 // nodemon app
  
+//  https://dashboard.ngrok.com/get-started/your-authtoken visit this website
 // then open ngrok site and dashboard to find my authtoken and bash commands  in cmd after that use your link----------------------------->
 // ngrok config add-authtoken 30v0EwoWiZGcKNINh2mopbVTgxu_4MQuTcgbwejonpMkzaJ2C 
 // ngrok http 1000
